@@ -26,9 +26,7 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Ph.D Candidate"
   location         : "Pohang, South Korea"
-  employer         : |-
-    Interaction Lab.
-    @ Pohang University of Science and Technology"
+  employer         : Interaction Lab. @POSTECH"
   uri              : https://interaction.postech.ac.kr
   email            : "ykre0827@postech.ac.kr" 
 
