@@ -11,8 +11,8 @@ I am interested in haptics, human-computer interaction (HCI), and VR/AR. Above a
 
 Education
 ======
-* Ph.D in Computer Science & Engineering, Pohang University of Science and Technology, 2024
-* B.S. in Computer Science & Engineering, Pohang University of Science and Technology, 2017
+* Ph.D in Computer Science & Engineering, Pohang University of Science and Technology, Mar.2018 ~ Aug.2024
+* B.S. in Computer Science & Engineering, Pohang University of Science and Technology, Mar.2012 ~ Aug.2017
 
 A data-driven personal website
 ======
