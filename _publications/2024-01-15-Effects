@@ -1,0 +1,13 @@
+---
+title: "Effects of Contact Force on Vibrotactile Perceived Intensity Across the Upper Body"
+collection: publications
+permalink: /publication/2024-01-15-Effects
+excerpt: 'we present the effects of contact force on vibrotactile perceived intensity on three body parts: dorsal hand, upper arm, and lower back'
+date: 2024-01-15
+venue: 'IEEE Transactions on Haptics, vol. 17, no. 1, pp. 14-19'
+slidesurl: 
+paperurl: 'https://doi.org/10.1109/TOH.2024.3353761'
+citation: 'Dajin Lee, <u><b>Gyeore Yun</b></u>, Seungmoon Choi'
+---
+
+Full-body haptic suits, which can provide tactile sensations across the entire body, have been gaining popularity recently. The tightness of a suit to the user's body determines the contact force between the tactile actuators and the body. The contact force is likely to alter the intended perceptual effects, but relatively little is known about the extent of the alteration. Under this context, we present the effects of contact force on vibrotactile perceived intensity on three body parts: dorsal hand, upper arm, and lower back. To this end, we conducted three perceptual magnitude estimation experiments while controlling vibration amplitude, frequency, and contact force. The results show that increasing the contact force generally made the vibration stimuli feel stronger, while the specific behaviors were dependent on the body part and the experimental variables. Finally, we summarize the major findings and provide guidelines regarding contact force adjustment for effective full-body haptic rendering.
