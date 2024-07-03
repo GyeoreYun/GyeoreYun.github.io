@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2023-04-19-Generating
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2023-04-19
-venue: 'CHI 2023'
+venue: 'CHI &#039;23: Proceedings of the 2023 CHI Conference on Human Factors in Computing Systems'
 slidesurl: 
 paperurl: 'https://doi.org/10.1145/3544548.3580787'
 citation: 'Gyeore Yun, Minjae Mun, Jungeun Lee, Dong-Geun Kim, Hong Z Tan, Seungmoon Choi. &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
