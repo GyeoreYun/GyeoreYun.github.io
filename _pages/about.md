@@ -12,8 +12,8 @@ I also have experience and interests in research and development utilizing sound
 
 Education
 ======
-1. Ph.D in Computer Science & Engineering, Pohang University of Science and Technology,    <span style="color:#808080">Mar.2018 ~ Aug.2024</span>
-1. B.S. in Computer Science & Engineering, Pohang University of Science and Technology,    <span style="color:#808080">Mar.2012 ~ Aug.2017</span>
+1. Ph.D in Computer Science & Engineering, Pohang University of Science and Technology,    <span style="color:#808080">#####Mar.2018 ~ Aug.2024</span>
+1. B.S. in Computer Science & Engineering, Pohang University of Science and Technology,    <span style="color:#808080">#####Mar.2012 ~ Aug.2017</span>
 
 Selected Papers
 ======
