@@ -1,0 +1,13 @@
+---
+title: "Sound-to-Touch Crossmodal Pitch Matching for Short Sounds"
+collection: publications
+permalink: /publication/2024-01-15-Sound
+excerpt: 'This article explores how to relate sound and touch in terms of their spectral characteristics based on crossmodal congruence.'
+date: 2024-01-15
+venue: 'IEEE Transactions on Haptics, vol. 17, no. 1'
+slidesurl: 
+paperurl: 'https://doi.org/10.1109/TOH.2023.3338224'
+citation: 'Dong-Geun Kim, Jungeun Lee, <u><b>Gyeore Yun</b></u>, Hong Z. Tan, Seungmoon Choi'
+---
+
+This article explores how to relate sound and touch in terms of their spectral characteristics based on crossmodal congruence. The context is the audio-to-tactile conversion of short sounds frequently used for user experience improvement across various applications. For each short sound, a single-frequency amplitude-modulated vibration is synthesized so that their intensive and temporal characteristics are very similar. It leaves the vibration frequency, which determines the tactile pitch, as the only variable. Each sound is paired with many vibrations of different frequencies. The congruence between sound and vibration is evaluated for 175 pairs (25 sounds × 7 vibration frequencies). This dataset is employed to estimate a functional relationship from the sound loudness spectrum of sound to the most harmonious vibration frequency. Finally, this sound-to-touch crossmodal pitch mapping function is evaluated using cross-validation. To our knowledge, this is the first attempt to find general rules for spectral matching between sound and touch.
