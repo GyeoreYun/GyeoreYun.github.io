@@ -19,15 +19,19 @@ Selected Papers
 ======
 1. <B>Effects of Contact Force on Vibrotactile Perceived Intensity Across the Upper Body</b>   
 <span style="color:#909090"><u><b>Gyeore Yun</b></u>, Minjae Mun, Jungeun Lee, Dong-Geun Kim, Hong Z Tan, Seungmoon Choi, CHI &#039;23: Proceedings of the 2023 CHI Conference on Human Factors in Computing Systems</span>. [more](/publication/2023-04-19-Generating)
-4. <B>Improving Viewing Experiences of First-Person Shooter Gameplays with Automatically-Generated Motion Effects</b>   
+2. <B>Improving Viewing Experiences of First-Person Shooter Gameplays with Automatically-Generated Motion Effects</b>   
 <span style="color:#909090"><u><b>Gyeore Yun</b></u>, Hyoseung Lee, Sangyoon Han, and Seungmoon Choi, CHI &#039;21: Proceedings of the 2021 CHI Conference on Human Factors in Computing Systems</span>. [more](/publication/2021-05-07-Improving)
-6. <B>Seamless Phantom Sensation Moving Across a Wide Range of Body</b>   
+3. <B>Seamless Phantom Sensation Moving Across a Wide Range of Body</b>   
 <span style="color:#909090"><u><b>Gyeore Yun</b></u>, Seungjae Oh, and Seungmoon Choi, 2019 IEEE World Haptics Conference (WHC). [more](/publication/2019-07-09-Seamless)
 
 Registered Patents
 ======
-* Ph.D in Computer Science & Engineering, Pohang University of Science and Technology, Mar.2018 ~ Aug.2024
-* B.S. in Computer Science & Engineering, Pohang University of Science and Technology, Mar.2012 ~ Aug.2017
+1. <b>METHOD AND DEVICE FOR PROVIDING MOTION EFFECT</b>   
+<span style="color:#909090"><u><b>Gyeore Yun</b></u> and Seungmoon Choi, US Patent, Appl. No. 17/738,594, Appl. Date: 2022-05-06. (To be registered)</span>
+2. <b>METHOD AND APPARATUS FOR GENERATING MOTION EFFECTS BASED ON REDUCED OBJECT MOTION</b>   
+<span style="color:#909090">Seungmoon Choi, Sangyoon Han, and <u><b>Gyeore Yun</b></u>, US Patent, Reg. No. 11,989,356, Reg. Date: 2024-05-21.</span>
+3. <b>METHOD AND DEVICE FOR PROVIDING MOTION EFFECT</b>   
+<span style="color:#909090"><u><b>Gyeore Yun</b></u> and Seungmoon Choi, KR Patent, Reg. No. 10-2575318, Reg. Date: 2023-09-01.</span>
 
 Scholarships, Honors & Awards
 ======
