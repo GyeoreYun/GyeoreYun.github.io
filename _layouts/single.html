@@ -45,7 +45,7 @@ layout: default
       {% endunless %}
       {% if page.video%}
       <section class="page__video">
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/iDjQSdN_ig8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></section>
+        <iframe width="560" height="315" src={{ page.video }} frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></section>
       {% endif %}
       <section class="page__content" itemprop="text">
         {{ content }}
