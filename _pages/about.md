@@ -20,11 +20,11 @@ _<span style="color:#999999; font-size: 14px">Mar.2012 ~ Aug.2017</span>_
 Selected Papers
 ======
 1. Effects of Contact Force on Vibrotactile Perceived Intensity Across the Upper Body   
-<span style="color:#999999; font-size: 14px"><u><b>Gyeore Yun</b></u>, Minjae Mun, Jungeun Lee, Dong-Geun Kim, Hong Z Tan, Seungmoon Choi, CHI &#039;23: Proceedings of the 2023 CHI Conference on Human Factors in Computing Systems. [more](/publication/2023-04-19-Generating)</span>
+<span style="color:#999999; font-size: 14px"><u><b>Gyeore Yun</b></u>, Minjae Mun, Jungeun Lee, Dong-Geun Kim, Hong Z Tan, and Seungmoon Choi, _CHI &#039;23: Proceedings of the 2023 CHI Conference on Human Factors in Computing Systems_. [more](/publication/2023-04-19-Generating)</span>
 2. Improving Viewing Experiences of First-Person Shooter Gameplays with Automatically-Generated Motion Effects   
-<span style="color:#999999; font-size: 14px"><u><b>Gyeore Yun</b></u>, Hyoseung Lee, Sangyoon Han, and Seungmoon Choi, CHI &#039;21: Proceedings of the 2021 CHI Conference on Human Factors in Computing Systems. [more](/publication/2021-05-07-Improving)</span>
+<span style="color:#999999; font-size: 14px"><u><b>Gyeore Yun</b></u>, Hyoseung Lee, Sangyoon Han, and Seungmoon Choi, _CHI &#039;21: Proceedings of the 2021 CHI Conference on Human Factors in Computing Systems_. [more](/publication/2021-05-07-Improving)</span>
 3. Seamless Phantom Sensation Moving Across a Wide Range of Body   
-<span style="color:#999999; font-size: 14px"><u><b>Gyeore Yun</b></u>, Seungjae Oh, and Seungmoon Choi, 2019 IEEE World Haptics Conference (WHC). [more](/publication/2019-07-09-Seamless)</span>
+<span style="color:#999999; font-size: 14px"><u><b>Gyeore Yun</b></u>, Seungjae Oh, and Seungmoon Choi, _Proceedings of the 2019 IEEE World Haptics Conference (WHC)_. [more](/publication/2019-07-09-Seamless)</span>
 
 Registered Patents
 ======
@@ -48,10 +48,21 @@ Scholarships, Honors & Awards
 
 Reviews
 ======
-* 2024, Regular paper, CHI Conference on Human Factors in Computing Systems
-* 2023, Late-Breaking Work, CHI Conference on Human Factors in Computing Systems
+* 2024, Regular paper, _CHI Conference on Human Factors in Computing Systems_
+* 2023, Late-Breaking Work, _CHI Conference on Human Factors in Computing Systems_
 
 Skills
 ======
-* Ph.D in Computer Science & Engineering, Pohang University of Science and Technology, Mar.2018 ~ Aug.2024
-* B.S. in Computer Science & Engineering, Pohang University of Science and Technology, Mar.2012 ~ Aug.2017
+1. <b>software</b>   
+   Programming: C/C++, C#, MATLAB, Python, Java   
+   Statistical Analysis: R, SAS   
+   Libraries: TensorFlow, PyTorch, librosa, NI-DAQmx, CHAI3D, OpenCV, Open3D   
+   Game Engines: Unity3D, Unreal Engine   
+   Tools: LATEX, Adobe Photoshop/Premiere, Microsoft Office/Visual Studio/VSCode, Android Studio
+2. <b>Hardware</b>   
+Haptic Interfaces: PHANTOM Series, Vibrotactile Actuators (Vibration Motors, Voic Coils)    
+Virtual Reality: Oculus Rift, HTC Vive, Leap Motion, Tactile Suits   
+Others: DAQs, Arduinos, 2/3/6-DoF Motion Platforms, Accelerometers, Photoresistors, Multichannel Audio processors
+3. <b>Experiment and Analysis</b>   
+Human Experiment: Psychophysics & Perception, Human Performance, Estimating User Experiences   
+Statistical Analysis: Comparison (Parametric & Non-parametric), Regression, Dimension Reduction, and Survey Analysis
