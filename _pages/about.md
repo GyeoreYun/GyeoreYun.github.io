@@ -35,8 +35,14 @@ Registered Patents
 
 Scholarships, Honors & Awards
 ======
-* Ph.D in Computer Science & Engineering, Pohang University of Science and Technology, Mar.2018 ~ Aug.2024
-* B.S. in Computer Science & Engineering, Pohang University of Science and Technology, Mar.2012 ~ Aug.2017
+* <b>Best Paper Awards (finalist), 2024 IEEE Haptics Symposium</b>,   
+<span style="color:#909090">Dajin Lee, <u><b>Gyeore Yun</b></u>, and Seungmoon Choi, April 10, 2024.</span> [more](/publication/2024-01-15-Effects)
+* <b>Best Paper Awards (finalist), 2024 IEEE Haptics Symposium</b>,   
+<span style="color:#909090">Dong-Geun Kim, Jungeun Lee, <u><b>Gyeore Yun</b></u>, Hong Z. Tan, and Seungmoon Choi, April 10, 2024.</span> [more](/publication/2024-01-15-Sound)
+* <b>Fellowship award, POSTECH Postechian Fellowship</b>,   
+<span style="color:#909090"><u><b>Gyeore Yun</b></u>, June, 2023.</span>
+* <b>Prize (First Place), CSED499: Student Research Project</b>,   
+<span style="color:#909090">Implementation of Music Composition System Based on Gesture Recognition Using Natural User Interface, <u><b>Gyeore Yun</b></u>, December, 2016.</span>
 
 Reviews
 ======
