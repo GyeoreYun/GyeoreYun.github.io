@@ -19,12 +19,15 @@ _<span style="color:#999999; font-size: 14px">Mar.2012 ~ Aug.2017</span>_
 
 Selected Papers
 ======
-1. Effects of Contact Force on Vibrotactile Perceived Intensity Across the Upper Body   
-<span style="color:#999999; font-size: 14px"><u><b>Gyeore Yun</b></u>, Minjae Mun, Jungeun Lee, Dong-Geun Kim, Hong Z Tan, and Seungmoon Choi, _CHI &#039;23: Proceedings of the 2023 CHI Conference on Human Factors in Computing Systems_. [more](/publication/2023-04-19-Generating)</span>
-2. Improving Viewing Experiences of First-Person Shooter Gameplays with Automatically-Generated Motion Effects   
-<span style="color:#999999; font-size: 14px"><u><b>Gyeore Yun</b></u>, Hyoseung Lee, Sangyoon Han, and Seungmoon Choi, _CHI &#039;21: Proceedings of the 2021 CHI Conference on Human Factors in Computing Systems_. [more](/publication/2021-05-07-Improving)</span>
-3. Seamless Phantom Sensation Moving Across a Wide Range of Body   
-<span style="color:#999999; font-size: 14px"><u><b>Gyeore Yun</b></u>, Seungjae Oh, and Seungmoon Choi, _Proceedings of the 2019 IEEE World Haptics Conference (WHC)_. [more](/publication/2019-07-09-Seamless)</span>
+1. Generating Real-Time, Selective, and Multimodal Haptic Effects from Sound for Gaming Experience Enhancement   
+<span style="color:#999999; font-size: 14px"><u><b>Gyeore Yun</b></u>, Minjae Mun, Jungeun Lee, Dong-Geun Kim, Hong Z Tan, and Seungmoon Choi   
+_CHI &#039;23: Proceedings of the 2023 CHI Conference on Human Factors in Computing Systems_. [more](/publication/2023-04-19-Generating)</span>
+3. Improving Viewing Experiences of First-Person Shooter Gameplays with Automatically-Generated Motion Effects   
+<span style="color:#999999; font-size: 14px"><u><b>Gyeore Yun</b></u>, Hyoseung Lee, Sangyoon Han, and Seungmoon Choi   
+_CHI &#039;21: Proceedings of the 2021 CHI Conference on Human Factors in Computing Systems_. [more](/publication/2021-05-07-Improving)</span>
+5. Seamless Phantom Sensation Moving Across a Wide Range of Body   
+<span style="color:#999999; font-size: 14px"><u><b>Gyeore Yun</b></u>, Seungjae Oh, and Seungmoon Choi,   
+_Proceedings of the 2019 IEEE World Haptics Conference (WHC)_. [more](/publication/2019-07-09-Seamless)</span>
 
 Registered Patents
 ======
