@@ -17,7 +17,7 @@ Education
 
 Selected Papers
 ======
-1. Ph.D in Computer Science & Engineering, Pohang University of Science and Technology, Mar.2018 ~ Aug.2024
+1. <B>Effects of Contact Force on Vibrotactile Perceived Intensity Across the Upper Body</b>    <span style="color:#909090"><u><b>Gyeore Yun</b></u>, Minjae Mun, Jungeun Lee, Dong-Geun Kim, Hong Z Tan, Seungmoon Choi, CHI &#039;23: Proceedings of the 2023 CHI Conference on Human Factors in Computing Systems</span>.   [more](/2023-04-19-Generating)
 1. B.S. in Computer Science & Engineering, Pohang University of Science and Technology, Mar.2012 ~ Aug.2017
 
 Registered Patents
