@@ -54,15 +54,15 @@ Reviews
 Skills
 ======
 1. <b>software</b>   
-   Programming: C/C++, C#, MATLAB, Python, Java   
+   <span style="color:#999999; font-size: 15px">Programming: C/C++, C#, MATLAB, Python, Java   
    Statistical Analysis: R, SAS   
    Libraries: TensorFlow, PyTorch, librosa, NI-DAQmx, CHAI3D, OpenCV, Open3D   
    Game Engines: Unity3D, Unreal Engine   
-   Tools: LATEX, Adobe Photoshop/Premiere, Microsoft Office/Visual Studio/VSCode, Android Studio
+   Tools: LATEX, Adobe Photoshop/Premiere, Microsoft Office/Visual Studio/VSCode, Android Studio</span>
 2. <b>Hardware</b>   
-Haptic Interfaces: PHANTOM Series, Vibrotactile Actuators (Vibration Motors, Voic Coils)    
+<span style="color:#999999; font-size: 15px">Haptic Interfaces: PHANTOM Series, Vibrotactile Actuators (Vibration Motors, Voic Coils)    
 Virtual Reality: Oculus Rift, HTC Vive, Leap Motion, Tactile Suits   
-Others: DAQs, Arduinos, 2/3/6-DoF Motion Platforms, Accelerometers, Photoresistors, Multichannel Audio processors
+Others: DAQs, Arduinos, 2/3/6-DoF Motion Platforms, Accelerometers, Photoresistors, Multichannel Audio processors</span>
 3. <b>Experiment and Analysis</b>   
-Human Experiment: Psychophysics & Perception, Human Performance, Estimating User Experiences   
-Statistical Analysis: Comparison (Parametric & Non-parametric), Regression, Dimension Reduction, and Survey Analysis
+<span style="color:#999999; font-size: 15px">Human Experiment: Psychophysics & Perception, Human Performance, Estimating User Experiences   
+Statistical Analysis: Comparison (Parametric & Non-parametric), Regression, Dimension Reduction, and Survey Analysis</span>
