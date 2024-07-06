@@ -17,9 +17,12 @@ Education
 
 Selected Papers
 ======
-1. <B>Effects of Contact Force on Vibrotactile Perceived Intensity Across the Upper Body</b>    <span style="color:#909090"><u><b>Gyeore Yun</b></u>, Minjae Mun, Jungeun Lee, Dong-Geun Kim, Hong Z Tan, Seungmoon Choi, CHI &#039;23: Proceedings of the 2023 CHI Conference on Human Factors in Computing Systems</span>.   [more](/publication/2023-04-19-Generating)
-2. <B>Improving Viewing Experiences of First-Person Shooter Gameplays with Automatically-Generated Motion Effects</b>    <span style="color:#909090"><u><b>Gyeore Yun</b></u>, Hyoseung Lee, Sangyoon Han, and Seungmoon Choi, CHI &#039;21: Proceedings of the 2021 CHI Conference on Human Factors in Computing Systems</span>.   [more](/publication/2021-05-07-Improving)
-3. <B>Seamless Phantom Sensation Moving Across a Wide Range of Body</b>    <span style="color:#909090"><u><b>Gyeore Yun</b></u>, Seungjae Oh, and Seungmoon Choi, 2019 IEEE World Haptics Conference (WHC).   [more](/publication/2019-07-09-Seamless)
+1. <B>Effects of Contact Force on Vibrotactile Perceived Intensity Across the Upper Body</b>   
+<span style="color:#909090"><u><b>Gyeore Yun</b></u>, Minjae Mun, Jungeun Lee, Dong-Geun Kim, Hong Z Tan, Seungmoon Choi, CHI &#039;23: Proceedings of the 2023 CHI Conference on Human Factors in Computing Systems</span>. [more](/publication/2023-04-19-Generating)
+4. <B>Improving Viewing Experiences of First-Person Shooter Gameplays with Automatically-Generated Motion Effects</b>   
+<span style="color:#909090"><u><b>Gyeore Yun</b></u>, Hyoseung Lee, Sangyoon Han, and Seungmoon Choi, CHI &#039;21: Proceedings of the 2021 CHI Conference on Human Factors in Computing Systems</span>. [more](/publication/2021-05-07-Improving)
+6. <B>Seamless Phantom Sensation Moving Across a Wide Range of Body</b>   
+<span style="color:#909090"><u><b>Gyeore Yun</b></u>, Seungjae Oh, and Seungmoon Choi, 2019 IEEE World Haptics Conference (WHC). [more](/publication/2019-07-09-Seamless)
 
 Registered Patents
 ======
