@@ -1,6 +1,6 @@
 ---
 title: "Real-Time Sound-to-Haptic Conversion"
-excerpt: "We present an algorithm that creates real-time haptic effects from sound signals, tailored for enhancing user experiences in video games. <br/><img src='/images/teaser1.png'>"
+excerpt: "We present algorithms that creates real-time haptic effects from sound signals, tailored for enhancing gameplay user experiences. <br/><img src='/images/teaser1.png'>"
 collection: portfolio
 ---
 
