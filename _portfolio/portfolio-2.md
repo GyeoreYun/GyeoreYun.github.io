@@ -13,6 +13,6 @@ The third stage involves rendering the haptic signals through appropriate haptic
 I have conducted three studies during my time as a graduate student.   
 1. [Sound-to-Motion Conversion for Game Viewing](/publication/2021-05-07-Improving)\: Detecting gunfire sounds in FPS gameplay videos and generating corresponding recoil motion effects to complement the audio cues.
 2. [Sound-to-Tactile Conversion for Game Playing](/publication/2023-04-19-Generating)\: Providing multimodal (impact and vibration) haptic effects by detecting appropriate moments for haptic effects in real-time from sound signals.
-3. Semantic Haptic Rendering for Game Playing(To be submitted)\: Employing a deep learning model to classify the semantic classes of sound events and providing users with tailored full-body vibration patterns through a haptic suit.   
+3. Semantic Haptic Rendering for Game Playing (To be submitted)\: Employing a deep learning model to classify the semantic classes of sound events and providing users with tailored full-body vibration patterns through a haptic suit.   
 
 For more details, please see the papers.
