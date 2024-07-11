@@ -10,7 +10,7 @@ I am a PhD Candidate at [Interaction laboratory (Interaction Lab.)](https://itne
 I am interested in haptics, human-computer interaction (HCI), and VR/AR. Particularly, I focus on sound-to-haptic conversion algorithms and novel haptic rendering techniques.
 I also have experience and interests in research and development utilizing sound detection and processing.   
 
-You can download my CV and 1-page resume here.
+Here, you can download my [CV](./files/GYun_CV.pdf) and [1-page resume](./files/GYun_Resume.pdf).
 
 Education
 ======
