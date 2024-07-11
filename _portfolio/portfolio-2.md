@@ -1,6 +1,6 @@
 ---
 title: "Sound-Haptic Perception"
-excerpt: "Studies on the perception of using sound and haptic effects simultaneously<br/><img src='/images/portfolio2.png' width="300">"
+excerpt: "Studies on the perception of using sound and haptic effects simultaneously<br/><img src='/images/portfolio2.png' width='300'>"
 collection: portfolio
 ---
 
