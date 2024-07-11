@@ -1,14 +1,12 @@
 ---
 title: "Sound-Haptic Perception"
-excerpt: "Studies on the perception of using sound and haptic effects simultaneously<br/><img src='/images/500x300.png'>"
+excerpt: "Studies on the perception of using sound and haptic effects simultaneously<br/><img src='/images/portfolio2.png' width="300">"
 collection: portfolio
 ---
 
-I focus on enhancing the immersive experiences of games by generating haptic effects automatically based on sound signals.
-The research is divided into three primary stages.
-The first stage involves detecting sounds suitable for haptic effects in a gameplay sound stream employing learning models.
-The second stage aims to generate corresponding haptic signals of various modalities, which can be done either manually or automatically based on the sound signals.
-The third stage involves rendering the haptic signals through appropriate haptic displays.   
+Sound and haptic effects can greatly enhance usability and experience when used together.
+Examples include applications that provide music along with haptic feedback or generate vibration effects based on sounds to deliver them through a gamer's controller.
+To design such interfaces appropriately, research on how people perceive simultaneous auditory and haptic stimuli is necessary.    
 
 I have conducted three studies during my time as a graduate student.   
 1. [<b>Sound-to-Motion Conversion for Game Viewing</b>](/publication/2021-05-07-Improving)<br/><br/><img src='/images/teaser1.png'><br/><br/>Detecting gunfire sounds in FPS gameplay videos and generating corresponding recoil motion effects to complement the audio cues.<br/><br/>
