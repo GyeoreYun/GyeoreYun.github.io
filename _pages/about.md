@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<img src='./images/myPhoto.png'></br>
+<img src='../images/myPhoto.png'></br>
 I am a PhD Candidate at [Interaction laboratory (Interaction Lab.)](https://itneraction.postech.ac.kr), POSTECH, South Korea, advised by [Prof. Seungmoon Choi](https://choism.postech.ac.kr/).
 I am interested in haptics, human-computer interaction (HCI), and VR/AR. Particularly, I focus on sound-to-haptic conversion algorithms and novel haptic rendering techniques.
 I also have experience and interests in research and development utilizing sound detection and processing.   
