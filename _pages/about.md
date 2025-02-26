@@ -7,7 +7,8 @@ redirect_from:
   - /about.html
 ---
 <img src='../images/myPhoto.png'>   
-I am a PhD Candidate at [Interaction laboratory (Interaction Lab.)](https://itneraction.postech.ac.kr), POSTECH, South Korea, advised by [Prof. Seungmoon Choi](https://choism.postech.ac.kr/).
+I am an assistant professor at Dept. Computer Science and Engineering at Kyungpook National University, South Korea.
+#I earned my Ph.D. at [Interaction laboratory (Interaction Lab.)](https://interaction.postech.ac.kr), POSTECH, South Korea, advised by [Prof. Seungmoon Choi](https://choism.postech.ac.kr/).
 I am interested in haptics, human-computer interaction (HCI), and VR/AR. Particularly, I focus on sound-to-haptic conversion algorithms and novel haptic rendering techniques.
 I also have experience and interests in research and development utilizing sound detection and processing.   
 
